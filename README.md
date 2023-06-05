@@ -1,5 +1,6 @@
-### Hi there 👋
-### Will be a greatest
+### Creative problem solver!
+### Majored in AI-Software, interested in NLP and Data Science.
+### I love to try new things and always eager to learn and grow🔥
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=juicyjung&show_icons=true&hide_border=true)](https://github.com/juicyjung)
 <!--
