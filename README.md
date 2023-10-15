@@ -5,4 +5,4 @@
 
 - 👀 I’m interested in **NLP** and **Data Science**.
 - 🔥 I love to try new things and always eager to learn and grow
-- 🔍 Currently open to new opportunities :)
+- 🔍 Currently working as an NLP research engineer :)
