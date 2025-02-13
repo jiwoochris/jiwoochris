@@ -3,7 +3,7 @@
 
 
 ### About Me
-- 🌏 Born in Chicago 🇺🇸 and raised in South Korea 🇰🇷, bringing a unique multicultural perspective to every project
+- 🌏 Born in Chicago🇺🇸 and raised in South Korea🇰🇷, bringing a unique multicultural perspective to every project
 - 🚀 Started as an AI/ML Researcher, evolved into a versatile Full-Stack Developer
 - 💼 Even expanded into Business Development, mastering Product Strategy, Marketing, and Content Creation
 - 🔭 Currently building Web3 AI solutions at #AINetwork
