@@ -4,38 +4,10 @@
 
 ### About Me
 - 🌏 Born in Chicago and raised in South Korea, bringing a unique multicultural perspective to every project
-- 💡 AI/SW Developer with strong business acumen
 - 🚀 Started as an AI/ML Researcher, evolved into a versatile Full-Stack Developer
+- 💼 Even expanded into Business Development, mastering Product Strategy, Marketing, and Content Creation
 - 🔭 Currently building Web3 AI solutions at #AINetwork
 
-### 🛠 Technical Expertise
-- **AI/ML Development**
-  - Specialized in Natural Language Processing (NLP)
-  - Research background in machine learning
-  - Custom AI solution development
-
-- **Full-Stack Development**
-  - Backend: Python-based solutions
-  - Frontend development
-  - End-to-end system architecture
-
-- **Business Development**
-  - Product strategy
-  - Marketing expertise
-  - Content creation and education
-  - Freelance AI/SW development consulting
-
-### 🎯 Professional Highlights
-- Successfully launched online education programs
-- Extensive experience in AI/SW freelance development
-- Instructor at leading Korean institutions
-- Currently focused on integrating AI with Web3 technologies
-
-### 💪 What Drives Me
-- 🔥 Passionate about exploring new technologies
-- 📚 Continuous learning and growth mindset
-- 🌉 Creating solutions that bridge technology and business needs
-- 🤝 Building impactful collaborations
 
 ### 🛠️ Tech Stack
 
