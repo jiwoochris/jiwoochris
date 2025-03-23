@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm 지우 Chris</h1>
-<h3 align="center">Business-minded AI/SW Developer crafting impactful solutions</h3>
+<h3 align="center">Transforming ideas into innovative realities as an AI/SW Engineer</h3>
 
 
 ### About Me
